@@ -59,14 +59,14 @@ Copy code
 
 ```bash
 npm install
-2️⃣ Configure Environment Variables
+###2️⃣ Configure Environment Variables
 Copy .env.example → .env:
 
 ini
 Copy code
 PORT=3000
 API_KEY=mysecret123
-3️⃣ Start the Server
+###3️⃣ Start the Server
 Using Node:
 
 bash
