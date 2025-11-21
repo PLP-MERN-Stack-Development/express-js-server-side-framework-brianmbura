@@ -1,0 +1,19 @@
+{
+  "name": "plp-week2-express",
+  "version": "1.0.0",
+  "description": "PLP Week 2 - Express.js API (products)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
